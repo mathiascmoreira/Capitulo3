@@ -1,0 +1,9 @@
+c:\users\mathias\documents\visual studio 2015\Projects\Capitulo4\ConsumoEnergiaCondomíno\bin\Debug\ConsumoEnergiaCondomíno.exe.config
+c:\users\mathias\documents\visual studio 2015\Projects\Capitulo4\ConsumoEnergiaCondomíno\bin\Debug\ConsumoEnergiaCondomíno.exe
+c:\users\mathias\documents\visual studio 2015\Projects\Capitulo4\ConsumoEnergiaCondomíno\bin\Debug\ConsumoEnergiaCondomíno.pdb
+c:\users\mathias\documents\visual studio 2015\Projects\Capitulo4\ConsumoEnergiaCondomíno\obj\Debug\ConsumoEnergiaCondomíno.csprojResolveAssemblyReference.cache
+c:\users\mathias\documents\visual studio 2015\Projects\Capitulo4\ConsumoEnergiaCondomíno\obj\Debug\ConsumoEnergiaCondomíno.Form1.resources
+c:\users\mathias\documents\visual studio 2015\Projects\Capitulo4\ConsumoEnergiaCondomíno\obj\Debug\ConsumoEnergiaCondomíno.Properties.Resources.resources
+c:\users\mathias\documents\visual studio 2015\Projects\Capitulo4\ConsumoEnergiaCondomíno\obj\Debug\ConsumoEnergiaCondomíno.csproj.GenerateResource.Cache
+c:\users\mathias\documents\visual studio 2015\Projects\Capitulo4\ConsumoEnergiaCondomíno\obj\Debug\ConsumoEnergiaCondomíno.exe
+c:\users\mathias\documents\visual studio 2015\Projects\Capitulo4\ConsumoEnergiaCondomíno\obj\Debug\ConsumoEnergiaCondomíno.pdb
